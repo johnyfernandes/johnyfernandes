@@ -12,4 +12,4 @@
 <a href='https://github.com/johnyfernandes' target="_blank"><img alt='nextjs' src='https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=8b0000'/></a> 
 
 
-<sub><sup>**almost all my repos are currently private.</sup></sub>
+<sub><sup>*almost all my repos are currently private.</sup></sub>
