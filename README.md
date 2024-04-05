@@ -1,6 +1,6 @@
 # <p align="center"> Hello! 😄 I'm Johny. </p>
 ## <p align="center"> A Software Engineer & Data Analyst from Portugal 🇵🇹 </p>
-<sub><sup>*almost all my repos are currently private.</sup></sub>
+<sub><sup>*All my repos are currently private projects.</sup></sub>
 #### Welcome to my GitHub profile, where you'll find some information about me, some of my favorite technologies and some of my projects too!
 #### Feel free to send a message anytime here or using my <a href = "mailto: imjoaofernandes@gmail.com">e-mail</a>! 📫
 
